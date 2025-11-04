@@ -1,8 +1,9 @@
 # 🌐 Kasper Website
 
-This is my **second HTML and CSS project**, inspired by the Kasper template design.  
-It’s a simple responsive website built to practice layout, styling, and clean code organization.
+This is my **second HTML and CSS project**, inspired by the [Kasper template design](https://www.graphberry.com/item/kasper-one-page-psd-template).  
+It’s a simple **responsive website** built to practice layout, styling, and clean code organization.
 
+🔗 **Live Demo:** [https://mhesham74.github.io/Kasper/](https://mhesham74.github.io/Kasper/)
 ---
 
 ## 💡 Project Description
@@ -25,7 +26,6 @@ This project helped me strengthen my front-end fundamentals and improve my skill
 - CSS3  
 
 ---
-
 ## 👤 Author
 **Mohamed Hesham**  
 💬 “Step by step, every project builds a stronger foundation.”
