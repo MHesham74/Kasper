@@ -28,4 +28,3 @@ This project helped me strengthen my front-end fundamentals and improve my skill
 ---
 ## 👤 Author
 **Mohamed Hesham**  
-💬 “Step by step, every project builds a stronger foundation.”
